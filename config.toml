@@ -1,0 +1,42 @@
+baseURL = "https://woosik08.github.io/"
+title = "Woosik Kim"
+theme = "PaperMod"
+languageCode = "en-us"
+description = "Ph.D. Applicant in VLSI Design | IC Design Engineer at Samsung Electronics"
+
+[params]
+  author = "Woosik Kim"
+  profileMode = true
+  profileName = "Woosik Kim"
+  profileBio = "IC Design Engineer | Ph.D. Applicant | Samsung HBM4 PHY"
+  profilePicture = "images/profile.jpg"
+  ShowReadingTime = true
+  ShowBreadCrumbs = true
+  ShowPostNavLinks = true
+  ShowWordCount = true
+  cvLink = "cv/Woosik_Kim_CV_2025.pdf"
+  email = "wosik08@gmail.com"
+
+  [params.homeInfoParams]
+    Title = "Woosik Kim"
+    Content = "IC Design Engineer | Ph.D. Applicant in VLSI | Samsung HBM4 PHY"
+
+[[menu.main]]
+  name = "About"
+  url = "/about"
+
+[[menu.main]]
+  name = "Experience"
+  url = "/experience"
+
+[[menu.main]]
+  name = "Publications"
+  url = "/publications"
+
+[[menu.main]]
+  name = "Skills"
+  url = "/skills"
+
+[[menu.main]]
+  name = "Contact"
+  url = "/contact"
