@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Samsung on Woosik Kim</title>
+    <link>https://woosik08.github.io/tags/samsung/</link>
+    <description>Recent content in Samsung on Woosik Kim</description>
+    <generator>Hugo -- 0.147.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://woosik08.github.io/tags/samsung/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HBM4 PHY Design</title>
+      <link>https://woosik08.github.io/projects/hbm4-design/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://woosik08.github.io/projects/hbm4-design/</guid>
+      <description>Design and optimization of high-speed memory PHY including parity and write-path circuits.</description>
+    </item>
+  </channel>
+</rss>
